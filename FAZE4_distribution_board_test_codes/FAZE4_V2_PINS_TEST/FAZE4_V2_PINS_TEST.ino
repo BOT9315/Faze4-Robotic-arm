@@ -10,6 +10,7 @@
 #define SENSOR3 1
 
 
+
 #define PUL1 12
 #define DIR1 24
 #define ENA1 25
